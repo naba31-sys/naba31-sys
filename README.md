@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Naba 👋
 
-<!--
-**naba31-sys/naba31-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Student
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Data Science student interested in programming, data analysis, and learning new technologies.
+
+Currently, I'm building my programming skills and working on practical projects.
+
+## 🛠️ Skills
+
+- Python
+- C++
+- NumPy
+- Pandas
+- Matplotlib
+
+## 🚀 Projects
+
+### 🏦 Bank System
+A Python-based Bank System with a graphical user interface using Tkinter.
+
+[View Bank System](https://github.com/naba31-sys/Bank_System)
+
+## 📚 Currently Learning
+
+- Data Science
+- Data Analysis
+- Python Programming
+- Data Visualization
+
+## 🎯 Goals
+
+- Improve my programming skills
+- Build more Data Science projects
+- Learn and apply Machine Learning
+- Build a strong GitHub portfolio
+
+---
+
+⭐ Thanks for visiting my profile!
